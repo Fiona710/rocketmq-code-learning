@@ -64,7 +64,6 @@ public class NamesrvStartup {
             e.printStackTrace();
             System.exit(-1);
         }
-
         return null;
     }
 
